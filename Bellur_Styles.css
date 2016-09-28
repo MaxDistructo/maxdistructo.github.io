@@ -1,0 +1,50 @@
+@charset "utf-8";
+.body_text {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+.contact_info {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFF;
+}
+
+.copyright {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 9px;
+	color: #FFF;
+	font-style: italic;
+}
+.menu_bar {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	color: #FFF;
+	text-align: center;
+}
+
+.img_float_right {
+	float: right;
+	padding: 5px;
+}
+.img_float_left {
+	float: left;
+	padding: 5px;
+}.heading {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: bold;
+	color: #FFF;
+	text-align: center;
+}
+.sub_heading {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: bolder;
+	color: #FFF;
+}
