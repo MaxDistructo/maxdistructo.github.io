@@ -1,0 +1,12 @@
+@charset "utf-8";
+.my_title {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+.menu_bar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #CCC;
+}
