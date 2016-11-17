@@ -1,1 +1,39 @@
-
+mditems
+netherStarSword,null
+netherStarPick,null
+netherStarShovel,null
+netherStarAxe,null
+netherStarHoe,null
+null,
+null,
+top, middle, bottom //Crafting Normal, If item slot is not used, write null
+itemLetter
+item1
+item2
+item3
+item4
+item5
+item6
+item7
+item8
+item9
+itemIn,Items.dye//Shapeless, If item slot is not used, write null EX Makes 1 diamond from 3 lapis then 1 diamond makes 3 lapis
+itemMetadata,4
+itemAmount,3
+itemIn2,null
+itemMetadata2,null
+itemAmount2,null
+itemIn3,null
+itemMetadata3,null
+itemAmount3,null
+itemIn4,null
+itemMetadata4,null
+itemAmount4,null
+itemOut,Items.diamond
+itemOutAmount,1
+itemOutMetadata,0
+input //Smelting
+output
+exp
+oreDictItem
+oreDict
