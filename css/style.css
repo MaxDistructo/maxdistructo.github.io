@@ -1,3 +1,4 @@
+/* @import url("../webfonts/CustomFormaxdistructo/stylesheet.css"); */
 /* Website template by freewebsitetemplates.com */
 /*------------------------- Fonts ---------------------------*/
 @font-face {
@@ -87,8 +88,8 @@ a img {
 	margin:14px 15px 0 0;
 }
 .header div.featured {
-	background:url(../images/racing-car.png) no-repeat right 31px;
-	height:420px;
+	background: url(../images/racing-car.png) no-repeat right 31px;
+	height: 30px;
 }
 .header div.featured h2 {
 	margin:0;
@@ -595,12 +596,17 @@ a img {
 	text-decoration:none;
 }
 .footer p {
-	color:#666881;
-	float:right;
-	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
-	font-size:12px;
-	line-height:16px;
-	margin:16px 0 0;
-	text-decoration:none;
-	padding:0 15px 0 0;
+	color: #000000;
+	float: right;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 16px;
+	margin: 16px 0 0;
+	text-decoration: none;
+	padding: 0 15px 0 0;
+}
+.newLink {
+	font-family: CustomFormaxdistructo;
+	font-size: 14px;
+	color: #FFF;
 }
