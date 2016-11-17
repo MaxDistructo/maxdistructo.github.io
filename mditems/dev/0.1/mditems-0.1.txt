@@ -6,17 +6,29 @@ netherStarAxe,null
 netherStarHoe,null
 null,
 null,
-top, middle, bottom //Crafting Normal, If item slot is not used, write null
+modLoader.swords[1], //Change how Item Format is
+" n ", 
+" n ", 
+" s ", //Crafting Normal, If item slot is not used, write null
+n
+Items.netherStar
+s
+Items.stick
 itemLetter
-item1
-item2
 item3
+itemLetter
 item4
+itemLetter
 item5
+itemLetter
 item6
+itemLetter
 item7
+itemLetter
 item8
+itemLetter
 item9
+itemLetter
 itemIn,Items.dye//Shapeless, If item slot is not used, write null EX Makes 1 diamond from 3 lapis then 1 diamond makes 3 lapis
 itemMetadata,4
 itemAmount,3
