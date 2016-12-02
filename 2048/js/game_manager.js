@@ -70,7 +70,7 @@ GameManager.prototype.addRandomTile = function () {
   if (this.grid.cellsAvailable()) {
     var gen = Math.random() * (2048 - 1) + 1;
     var value;
-    if(gen < 2){
+    if(gen <= 2){
       value = 2048;
     }
     else if (gen > 2 && gen <= 4){
