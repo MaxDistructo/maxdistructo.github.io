@@ -74,7 +74,7 @@ GameManager.prototype.addRandomTile = function () {
       value = 2048;
     }
     else if (gen > 2 && gen <= 4){
-      value = 1028;
+      value = 1024;
     }
     else if (gen > 4 && gen <= 8){
       value = 512;
