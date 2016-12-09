@@ -15,11 +15,6 @@
 	font-weight: normal;
 	font-style: normal;
 }
-@font-face{
-	font-family: 'Conv_TXTGroovySmooth-Regular';
-	src: url('../fonts/TXT Groovy Smooth.ttf');
-	font-weight: normal;
-	font-style: normal;
 /*------------------------- Layout styles ------------------------*/
 body {
 	margin:0;
@@ -614,7 +609,4 @@ a img {
 	font-family: 'Conv_JockeyOne-Regular';
 	font-size: 14px;
 	color: #FFF;
-}
-.bigN {
-	font-family: 'TXTGroovySmooth-Regular';
 }
