@@ -1,0 +1,11 @@
+DroidBot API Keys
+Token = MjY2NzMxNzg4NTk0OTcwNjM1.C1B82w.-RlQIzuBqWOEzTZm7g7nAx8a_NU
+ClientID = 266731788594970635
+Giphy = dc6zaTOxFJmzC
+GoogleAPI = AIzaSyCJ1xCDYqzQfomp3IgWYt30EhFXaX0imUU
+custom searchID = 015583036387752735413:69crg0bev_w
+imgur ID = 17767686ba9fecf
+wolfram ID = PKU3U3-6JPVR6JTVG
+OpenExchangeRates = 0d79a8b981d44c25be689c5dda39bdce
+MicrosoftTranslatePublic = DroidBot5568392109485
+MicrosoftPrivate = T+mPwlYToDTpf7ipl5iVaKsLDqXx7t+ytGAbIFgnBQ0=
