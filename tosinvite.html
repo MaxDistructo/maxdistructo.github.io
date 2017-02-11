@@ -1,8 +1,19 @@
 <head>
-  <script>
-  function resizeIframe(obj) {
-    obj.style.height = obj.contentWindow.document.body.scrollHeight + 'px';
-  }
-</script>
+         <style type="text/css">
+            body
+            {
+                margin:   0;
+                overflow: hidden;
+            }
+
+            #iframe1
+            {
+                height:   100%;
+                left:     0px;
+                position: absolute;
+                top:      0px;
+                width:    100%;
+            }
+        </style>
   </head>
-<iframe src="https://docs.google.com/spreadsheets/d/1LW060blY1l6pjNeuW7Y7a-0jASWaurrwpTpbkr6o54s/pubhtml?widget=true&amp;headers=false" frameborder="0" scrolling="no" onload="resizeIframe(this)"></iframe>
+<iframe id="iframe1" src="https://docs.google.com/spreadsheets/d/1LW060blY1l6pjNeuW7Y7a-0jASWaurrwpTpbkr6o54s/pubhtml?widget=true&amp;headers=false" frameborder="0"></iframe>
