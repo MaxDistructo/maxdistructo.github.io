@@ -1,0 +1,13 @@
+{
+  label = "Green Pillar Ends",
+  shapes = {
+    { 6,0,6,10,15,10,texture = "iron_block", tint = 0x00ee00 },
+    { 4,15,6,12,16,10,texture = "iron_block", tint = 0x111111 },
+    { 5,15,5,11,16,11,texture = "iron_block", tint = 0x111111 },
+    { 6,15,4,10,16,12,texture = "iron_block", tint = 0x111111 },
+    { 4,0,6,12,1,10,texture = "iron_block", tint = 0x111111, state = true },
+    { 5,0,5,11,1,11,texture = "iron_block", tint = 0x111111, state = true },
+    { 6,0,4,10,1,12,texture = "iron_block", tint = 0x111111, state = true },
+    { 6,1,6,10,16,10,texture = "iron_block", tint = 0x00ee00, state = true },
+  }
+}
