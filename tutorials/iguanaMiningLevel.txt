@@ -25,3 +25,14 @@ updateMaterial(_7_ardite, "Fairy",         250,1050, 5, 0.5f);
 updateMaterial(_8_cobalt, "Pokefennium",  1000, 850, 2, 3.0f);
 updateMaterial(_6_obsidian, "Osmium", 500, 1000, 4, 1.3f);
 updateMaterial(_6_obsidian, "Refined Glowstone", 300, 1400, 5, 1.75f);
+
+0 = Only Mine Stone
+1 = Copper
+2 = Iron
+3 = Tin
+4 = Redstone
+5 = Obsidian
+6 = Ardite
+7 = Cobalt
+8 = Manyullyn
+9 = Manyullyn+
