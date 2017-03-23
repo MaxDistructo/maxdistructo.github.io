@@ -55,5 +55,10 @@ updateMaterial(_6_obsidian, "Refined Glowstone", 300, 1400, 5, 1.75f);
   Osmium
   Refined Glowstone
 7 = Cobalt
- 8= Manyullyn
+  Ardite
+  Fairy
+8 = Manyullyn
+  Cobalt
+  Pokefennium
 9 = Manyullyn+
+  Manyullyn
