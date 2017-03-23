@@ -27,12 +27,33 @@ updateMaterial(_6_obsidian, "Osmium", 500, 1000, 4, 1.3f);
 updateMaterial(_6_obsidian, "Refined Glowstone", 300, 1400, 5, 1.75f);
 
 0 = Only Mine Stone
+  Paper
+  Wood
+  Stone
+  Cactus
+  Netherrack
+  Blue Slime
+  Slime
 1 = Copper
+  Flint
+  Bone
 2 = Iron
+  Copper
 3 = Tin
+  Iron
+  Thaumium
+  Nether Quartz
 4 = Redstone
+  Bronze
 5 = Obsidian
+  Steel
+  Pig Iron
+  Amethest
 6 = Ardite
+  Obsidian
+  Alumite
+  Osmium
+  Refined Glowstone
 7 = Cobalt
-8 = Manyullyn
+ 8= Manyullyn
 9 = Manyullyn+
