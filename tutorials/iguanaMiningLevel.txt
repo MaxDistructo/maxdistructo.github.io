@@ -34,31 +34,64 @@ updateMaterial(_6_obsidian, "Refined Glowstone", 300, 1400, 5, 1.75f);
   Netherrack
   Blue Slime
   Slime
+  Magical Wood
+  Plastic
+  Lead
+  Electrum
+  Pink Slime
 1 = Copper
   Flint
   Bone
 2 = Iron
   Copper
+  Tear Jerker
+  Glue
 3 = Tin
   Iron
   Thaumium
   Nether Quartz
+  Constantan
+  Sapphire
+  Ruby
+  Peridot
+  Silver
+  Ferrous
+  Invar
 4 = Redstone
   Bronze
 5 = Obsidian
   Steel
   Pig Iron
   Amethest
+  Terrasteel
+  Manasteel
+  Elementium
+  Desh
+  Lumium
+  Signalum
+  Ludicrite
+  Yellorite
+  Blutonium
+  Cyanite
 6 = Ardite
   Obsidian
   Alumite
   Osmium
   Refined Glowstone
+  Ender Amethyst
+  Enderium
+  RedAurum
+  Void Metal
+  Drulloy
+  Mythril
+  Shiny
 7 = Cobalt
   Ardite
   Fairy
+  Dark Steel
 8 = Manyullyn
   Cobalt
   Pokefennium
 9 = Manyullyn+
   Manyullyn
+  Bedrockium
