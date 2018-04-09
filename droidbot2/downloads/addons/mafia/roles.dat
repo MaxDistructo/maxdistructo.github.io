@@ -553,8 +553,16 @@
 		"class":"nc",
 		"role":"plaguebearer",
 		"dead":false,
-		"attack":0.,
+		"attack":0,
 		"defence":1
+	},
+	"pestilence":{
+		"alignment":"neutral",
+		"class":"nc",
+		"role":"pestilence",
+		"dead":false,
+		"attack":2,
+		"defence":3
 	}
 	
   },
@@ -570,16 +578,16 @@
     "transporter":"Your target could be a Escort, Transporter, or Consort",
     "bodyguard":"Your target could be a Bodyguard, Godfather, or Arsonist",
     "doctor":"Your target could be a Doctor, Disguiser, or Serial Killer",
-    "vampire_hunter":"Your target could be a Survivor, Amnesiac, or Vampire Hunter",
-    "vigilante": "Your target could be a Vigilante, Veteran, or Mafioso",
-    "veteran":"Your target could be a Vigilante, Veteran, or Mafioso",
+    "vampire_hunter":"Your target could be a Survivor, Amnesiac, Vampire Hunter, or Psychic",
+    "vigilante": "Your target could be a Vigilante, Veteran, Mafioso, Pirate, or Ambusher",
+    "veteran":"Your target could be a Vigilante, Veteran, Mafioso, Pirate, or Ambusher",
     "disguiser":"Your target could be a Doctor, Disguiser, or Serial Killer",
     "forger":"Your target could be a Lookout, Forger, or Witch",
     "framer": "Your target could be a Framer, Vampire, or Jester",
     "jailor":"Your target could be a Spy, Blackmailer, or Jailor",
     "janitor":"Your target could be a Medium, Janitor, or Retributionist",
     "godfather":"Your target could be a Bodyguard, Godfather, or Arsonist",
-    "mafioso":"Your target could be a Vigilante, Veteran, or Mafioso",
+    "mafioso":"Your target could be a Vigilante, Veteran, Mafioso, Pirate, or Ambusher",
     "blackmailer":"Your target could be a Spy, Blackmailer, or Jailor",
     "consigliere":"Your target could be an Investigator, Consigliere, or Mayor",
     "consort":"Your target could be a Escort, Transporter, or Consort",
@@ -589,8 +597,8 @@
     "executioner":"Your target could be a Sheriff, Executioner or Werewolf",
     "jester":"Your target could be a Framer, Vampire, or Jester",
     "witch":"Your target could be a Lookout, Forger, or Witch",
-    "amnesiac":"Your target could be a Survivor, Amnesiac, or Vampire Hunter",
-    "survivor":"Your target could be a Survivor, Amnesiac, or Vampire Hunter",
+    "amnesiac":"Your target could be a Survivor, Amnesiac, Vampire Hunter, or Psychic",
+    "survivor":"Your target could be a Survivor, Amnesiac, Vampire Hunter, or Psychic",
     "vampire":"Your target could be a Framer, Vampire, or Jester"
   },
   "single_kill":{
@@ -604,6 +612,7 @@
     "vet":" was Shot by the Veteran they visited.",
     "vig":" was Shot by a Vigilante.",
     "jail":" was executed by the Jailor.",
+    "jailor":" was executed by the Jailor.",
     "guilt":" shot themselves out of Guilt.",
     "lynch":" was lynched by the Town.",
     "linch":" was lynched by the Town.",
