@@ -71,6 +71,7 @@ GameManager.prototype.addRandomTile = function () {
     var gen = Math.random() * (2048 - 1) + 1;
     var value;
     if(gen <= 2){
+      self.won = true;
       value = 2048;
     }
     else if (gen > 2 && gen <= 4){
