@@ -12,4 +12,4 @@ The Terms of Service may be updated at any time, and continued use of the Bot st
 4) If users are under the Age of 18 but above the Age of 13, they shall have informed their Parent or Guardian to these terms.
 
 # Disclaimer
-The Platinum Discord Bot is licensed under the MIT License. Users of the services provided by the Bot are protected by the [Privacy Policy](https://maxdistructo.github.io/platinum/privacy.md). Violations of the aformentioned privacy policy may get a User banned/restricted from further use of the Bot.
+The Platinum Discord Bot is licensed under the MIT License. Users of the services provided by the Bot are protected by the [Privacy Policy](https://maxdistructo.github.io/platinum/privacy.md).
