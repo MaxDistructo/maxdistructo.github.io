@@ -1,9 +1,0 @@
-{
-"Name":"",
-"Admins":[],
-"Moderators":[],
-"GameChannels":[],
-"Note":"All of the above values use Discord Debug IDs. Just Google how to find these IDs. The above IDs will throw an error in the program so please remove/change them. You do NOT have to put your ID in more than one of the categories (EX. Admins do not need to have their ID put in the Admins set and the Moderators set. Just the Admins set. IMPORTANT NOTE: the Admin Array must be equal or greater than the moderator array so the admin/mod commands will actually work.). Owners(Of the server) do not have to add their ID to anything as they will be given full perms. This file is auto-generated via the program and an example version of this file can be found at https://github.com/MaxDistructo/droidbot2/blob/master/droidbot2/config/ExampleServerIdConfig.txt"
-"SwearFilter":false,
-"SwearWords":[]
-}

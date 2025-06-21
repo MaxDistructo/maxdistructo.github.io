@@ -1,4 +1,0 @@
-FROM eclipse/ubuntu_gradle
-CMD wget https://files.minecraftforge.net/maven/net/minecraftforge/forge/1.10.2-12.13.8.2185/forge-1.10.2-12.13.8.2185-mdk.zip
-CMD unzip forge-1.10.2-12.13.8.2185-mdk.zip
-CMD gradle setupDecompWorkspace
